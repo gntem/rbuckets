@@ -2,5 +2,9 @@
 name = "rbuckets"
 version = "0.1.0"
 edition = "2024"
+authors = ["Your Name <ntemirisgiorgos3@gmail.com"]
+description = "A Rust library for managing buckets of items with various operations."
+license = "MIT"
+repository = "https://github.com/gntem/rbuckets"
 
 [dependencies]
